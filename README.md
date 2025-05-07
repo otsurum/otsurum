@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 こんにちは、つるみ しゅん です！
 
-<!--
-**otsurum/otsurum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 興味・専門
+- 💬 コミュニケーション解析
+- 🎥 映像・音声処理（OpenPose, 話者分離など）
+- 🧪 実験系アプリ・プロトタイピング（Swift, Python）
 
-Here are some ideas to get you started:
+## 🛠 技術スタック
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+## 🔗 他リンク
+- [Portfolio](https://your-portfolio.com)
+- [X/Twitter](https://twitter.com/yourhandle)
