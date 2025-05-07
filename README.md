@@ -12,5 +12,5 @@ iOS (SwiftUI)
 ![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
 ## 🔗 他リンク
-- [Portfolio](https://your-portfolio.com)
-- [X/Twitter](https://twitter.com/yourhandle)
+- [Portfolio](https://apps.apple.com/jp/app/mecap/id6743491726)
+- [X/Twitter](https://x.com/otsurum)
